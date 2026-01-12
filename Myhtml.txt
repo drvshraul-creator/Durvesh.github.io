@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="this is page goku">
+
+  <title>Dragon Ball.com</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Hey HERE IS  INFORMATION ABOUT DRAGON BALL</h1>
+  
+    
+  <p>Dragon Ball is a famous Japanese anime and manga series created by Akira Toriyama. It follows the adventures of Goku, a Saiyan warrior, who trains to become stronger, protects Earth, and searches for the Dragon Balls, magical spheres that summon the dragon Shenron to grant wishes.2️⃣ Main Series in Order
+Dragon Ball (1986–1989) – Goku’s childhood, martial arts tournaments, Red Ribbon Army.
+Dragon Ball Z (1989–1996) – Saiyan Saga, Frieza, Cell, Majin Buu; most famous.
+Dragon Ball GT (1996–1997) – Non-canon continuation made by Toei.
+Dragon Ball Super (2015–present) – New gods, universes, Super Saiyan God, Tournament of Power.
+Dragon Ball Daima (announced) – Upcoming project with younger versions of characters.</p>
+<h1>1.WHO IS GOKU</h1>
+<p>Goku is the main hero of the Dragon Ball anime and manga series created by Akira Toriyama.
+His full Saiyan name is Kakarot.
+He was born on Planet Vegeta and sent to Earth as a baby.
+He is kind-hearted, loves to fight strong opponents, and always protects his friends and the Earth.
+Goku is a Saiyan, a race of powerful warriors.
+He can transform into stronger forms like Super Saiyan, Super Saiyan Blue, Ultra Instinct, etc.
+He learned martial arts from Master Roshi, trained with King Kai, and fights famous villains like Frieza, Cell, Majin Buu, and Jiren.
+In short: Goku is one of the most popular anime characters in the world and the main hero of Dragon Ball. If you want, I can tell you his full story, powers, or forms.</p>
+  <script src="main.js"></script>
+  <img width="200"src="image.jpg" alt="goku">
+  <img width="300"hight="300"src="image2.jpeg" alt="goku">
+  <img width="300" src="image2.jpg" alt="goku">
+  <img width="200" src="image4.jpeg" alt="kakarot">
+  <img width="200"src="image5.jpeg" alt="non">
+  <img width="200"src="image6.jpeg" alt="no">
+  <table>
+    <tr>
+  <th>goku</th>
+    <td>ULTER INSTING FORM(MUI)</td>
+    </tr>
+    </table>
+    <audio src="audio.mp3" controls></audio>
+    <video src="video.mp4"width="200"hight="200"controls></video>
+    <p>YOU CAN ALSO DOWNLOAD IMAGE'S VIDIO  GOKU THEME SONG </p>
+    
+<footer style="background:#000; color:white; text-align:center; padding:10px;">
+  © <span id="year"></span> Durvesh Raul | All Rights Reserved
+</footer>
+
+<script>
+  document.getElementById("year").innerText = new Date().getFullYear();
+</script>
+      
+      <script>main.js</script>
+      
+
+       
+ 
+      
+      </body>
+      </html>
